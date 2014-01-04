@@ -1,0 +1,18 @@
+{
+  "host": {
+    "type": "entry",
+    "default" : "localhost",
+    "description" : "Remote hostname to connect"
+  },
+  "port": {
+    "type": "entry",
+    "default" : "8080",
+    "description" : "Remote port"
+  },
+  "path": {
+    "type": "entry",
+    "default" : "jsonrpc",
+    "description" : "Remote path"
+  }
+}
+
